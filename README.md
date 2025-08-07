@@ -5,7 +5,7 @@
 🔭 I’m currently working on the [COS 301 FireFighter Platform](https://github.com/COS301-SE-2025/Fire-Fighter)
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zander-van-schoor) 
 
 # 💻 Tech Stack:
