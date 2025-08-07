@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zander</h1>
 <h3 align="center">Final-Year Computer Science Student</h3>
 
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on the [COS 301 FireFighter Platform](https://github.com/COS301-SE-2025/Fire-Fighter)
 
 
