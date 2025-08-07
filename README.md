@@ -2,7 +2,7 @@
 <h3 align="center">Final-Year Computer Science Student</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on the COS 301 FireFighter Platform
+🔭 I’m currently working on the [COS 301 FireFighter Platform](https://github.com/COS301-SE-2025/Fire-Fighter)
 
 
 ## 🌐 Socials:
@@ -17,8 +17,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zander-van-schoor&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=zander-van-schoor&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
